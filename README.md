@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nightskyshop
 - 👀 I’m interested in websitebiulding.
-- 🌱 I’m currently learning django.
+- 🌱 I’m currently learning Spring & Next.js.
 - 📫 How to reach me. email : nightskyshop1023@naver.com, phone : (+82)01096712866
 
 <!---
