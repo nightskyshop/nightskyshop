@@ -1,6 +1,6 @@
 - 👀 I’m interested in websitebiulding.
 - 🌱 I’m currently learning Spring & Next.js.
-- 📫 How to reach me. email : nightskyshop1023@naver.com, phone : (+82)01096712866
+- 📫 How to reach me. email : nightskyshop1023@naver.com
 
 <!---
 nightskyshop/nightskyshop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
